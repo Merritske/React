@@ -1,6 +1,9 @@
+
+
 function Welcome(props){
     return (<h1>Welkom here  
-        { props.name} 
+       
+         { props.name} 
    
         </h1>)
 }
